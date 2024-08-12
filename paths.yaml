@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/karadhak/karadhak-2024-8-12-17-8-59/:/
+ - /content/karadhak/karadhak-2024-8-12-17-8-59/metadata.json:/metadata.json
+ - /content/karadhak/karadhak-2024-8-12-17-8-59/redirects.json:/redirects.json
